@@ -1,8 +1,12 @@
+import AboutUsButton from '@/components/AboutUsButton'
+import LoginButton from '@/components/LoginButton'
 import React from 'react'
 
 const Landing = () => {
   return (
-    <div>Landing</div>
+    <div>
+      Hello there!
+    </div>
   )
 }
 
